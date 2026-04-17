@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sales-and-Inventory-Management-System/Sales-and-Inventory-Management-System.vcxproj" />
+</Solution>
